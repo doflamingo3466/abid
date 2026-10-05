@@ -21,7 +21,7 @@ p {
 }
 
 form {
-    width: 600px;
+    width: 800px;
     max-width: 90%;
     margin: 30px auto;
     padding: 25px;
@@ -58,7 +58,10 @@ textarea {
 /* ID Selector */
 
 #name {
-    border-left: 5px solid red;
+    border-left: 3px solid red;
+}
+#email {
+    border-left: 3px solid blue;
 }
 
 /* Radio & Checkbox */
